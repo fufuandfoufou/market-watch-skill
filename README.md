@@ -49,3 +49,14 @@ It is meant for:
 - post-close review
 - next-day planning
 - structured position management
+
+
+## Quick Start
+
+```bash
+# Run A-share watchlist
+python3 scripts/ashare_watchlist_report.py
+
+# Run HK watchlist
+python3 scripts/hk_watchlist_report.py
+```
